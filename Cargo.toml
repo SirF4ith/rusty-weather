@@ -10,3 +10,5 @@ reqwest = { version = "0.11", features = ["json"] }
 tokio = { version = "1", features = ["full"] }
 serde_json = "1.0.134"
 regex = "1.11.1"
+datetime = "0.5.2"
+geocoding = "0.4.0"
