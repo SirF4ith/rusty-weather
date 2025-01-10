@@ -1209,6 +1209,7 @@ dependencies = [
 name = "rusty-weather"
 version = "0.1.0"
 dependencies = [
+ "chrono",
  "clap",
  "datetime",
  "geocoding",
